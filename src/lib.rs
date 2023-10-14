@@ -1,3 +1,5 @@
+pub mod neural_network;
+
 pub fn add(left: usize, right: usize) -> usize {
     left + right
 }
